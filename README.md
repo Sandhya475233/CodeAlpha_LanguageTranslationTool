@@ -28,4 +28,4 @@ streamlit run app.py
 Sandhya
 ## Project Screenshot
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Screenshot.png)

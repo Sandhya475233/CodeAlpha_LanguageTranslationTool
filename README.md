@@ -26,3 +26,6 @@ streamlit run app.py
 
 ## Author
 Sandhya
+## Project Screenshot
+
+![Project Screenshot](screenshot.png)
